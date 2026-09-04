@@ -24,22 +24,22 @@
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="100%">
+<div align="center">
 
 <h3>About</h3>
 
-<p width="600">
-Software developer with a background in full-stack web development,<br/>
-currently focused on application security and secure system design.<br/>
-Working across the stack, from backend architecture to production deployment,<br/>
-with a growing specialization in cybersecurity.
-</p>
+<br/>
 
-</td>
-</tr>
-</table>
+</div>
+
+```json
+{
+  "role": "Full-Stack Developer / Cybersecurity",
+  "focus": ["Application Security", "Secure System Design"],
+  "stack": [".NET", "Angular", "Python"],
+  "status": "MSc Cybersecurity Student"
+}
+```
 
 <br/>
 
