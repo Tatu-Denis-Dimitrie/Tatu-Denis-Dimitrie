@@ -73,11 +73,11 @@ with a growing specialization in cybersecurity.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tatu-Denis-Dimitrie&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=cbd5e1" height="165"/>
+<img src="https://raw.githubusercontent.com/Tatu-Denis-Dimitrie/Tatu-Denis-Dimitrie/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tatu-Denis-Dimitrie&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://raw.githubusercontent.com/Tatu-Denis-Dimitrie/Tatu-Denis-Dimitrie/main/github-metrics.svg" width="100%" />
 
 </div>
 
